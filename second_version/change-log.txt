@@ -1,0 +1,10 @@
+1. <html lang="ru">
+2. <meta charset="utf-8">
+3. <img src="img/witcher.png" alt="" title="ведьмак" width="50%" align="center"><br> ПРИ НАВЕДЕНИИ ПОЯВЛЯЕТСЯ ОПИСАНИЕ
+4. декорация ссылок 
+5. body {
+	margin: 0%;
+	background: url(../img/background.png) no-repeat center center fixed; 
+	background-size: cover;
+}
+Добавлена в css
